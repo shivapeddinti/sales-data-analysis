@@ -42,3 +42,17 @@ Profit margin is different from total profit: a high-margin product may contribu
 - Investigate lower-performing regions and categories before reallocating marketing spend.
 - Compare profit as well as sales when evaluating sales channels.
 - Continue collecting data before making strong seasonal or forecasting claims.
+
+## Outputs
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3dd0a313-72de-4ecd-bceb-f93d1d555ce7" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/96a97474-38cf-448a-835e-f29ba17b8dff" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/083e5873-beb9-40d6-8bb9-81ec3abaa515" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/38c82861-a54f-4b08-bff8-fb77ddc51372" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/30b16dd0-1913-4add-bd2b-4f2de492e5ee" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c079b1c1-f29f-4190-81ea-6848d98f8a50" />
+
+
+
+
+
+
